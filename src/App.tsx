@@ -12,7 +12,7 @@ function App() {
       <Header />
       <Hero />
       <Services />
-      <Testimonials />
+
       <Contact />
       <Footer />
     </div>

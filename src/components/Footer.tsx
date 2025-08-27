@@ -61,12 +61,12 @@ const Footer = () => {
                 </button>
               </li>
               <li>
-                <button
+                {/* <button
                   onClick={() => scrollToSection("testimonials")}
                   className="text-gray-400 hover:text-white transition-colors"
                 >
                   Testimonials
-                </button>
+                </button> */}
               </li>
               <li>
                 <button

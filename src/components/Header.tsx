@@ -34,12 +34,12 @@ const Header = () => {
             >
               Services
             </button>
-            <button
+            {/* <button
               onClick={() => scrollToSection("testimonials")}
               className="text-gray-700 hover:text-blue-600 font-medium transition-colors"
             >
               Testimonials
-            </button>
+            </button> */}
             <button
               onClick={() => scrollToSection("contact")}
               className="bg-blue-600 text-white px-4 py-2 pt-1 rounded-lg hover:bg-blue-700 transition-colors"
