@@ -95,6 +95,9 @@ const Footer = () => {
               <li className="hover:text-white transition-colors cursor-pointer">
                 SEO & Analytics
               </li>
+              <li className="hover:text-white transition-colors cursor-pointer">
+                AI Integration
+              </li>
             </ul>
           </div>
         </div>

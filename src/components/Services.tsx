@@ -6,6 +6,7 @@ import {
   Zap,
   Database,
   Search,
+  Cpu,
 } from "lucide-react";
 
 const Services = () => {
@@ -80,6 +81,18 @@ const Services = () => {
         "Google Analytics",
         "Performance Tracking",
         "Conversion Optimization",
+      ],
+    },
+    {
+      icon: Cpu,
+      title: "AI Integration",
+      description:
+        "Seamlessly integrate artificial intelligence into your applications to enhance automation, decision-making, and personalized user experiences using modern AI models and APIs.",
+      features: [
+        "Chatbot & Virtual Assistants",
+        "Predictive Analytics",
+        "Natural Language Processing",
+        "Image & Voice Recognition",
       ],
     },
   ];
